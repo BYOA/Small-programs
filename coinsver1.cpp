@@ -11,8 +11,8 @@ int main()
     cin >> answer;
     double copyAnswer = answer;
 
-    vector<int> coins = {200, 100 , 50, 20, 10, 5}; //coins in cents. 
-            vector <int> total(6);
+    vector<int> coins = {50, 20, 10, 5}; //coins in cents. 
+            vector <int> total(4);
     int overall = 0;
 
 
