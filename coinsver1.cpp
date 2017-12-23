@@ -2,7 +2,7 @@
 #include <vector>
 
 using namespace std;
-
+/*breakup into functions.*/
 
 int main()
 {
